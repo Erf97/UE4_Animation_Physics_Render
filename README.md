@@ -2,7 +2,7 @@
 
 项目文件及可执行程序见Release
 
-项目文件 - Assignment2.zip
+项目文件 - Assignment2_Project.zip
 
 可执行程序 - UE4_Animation_Physics_Render.zip
 
